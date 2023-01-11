@@ -30,11 +30,11 @@ git clone https://github.com/GrishmaKhanal/Instagram-clone
 
 The home-page of the __Home.html__ file should look like this:
 
-![Home-Page](https://imgur.com/kRxdWZM)
+![Home-Page](https://imgur.com/kRxdWZM.png)
 
 The title tab, should look like this:
 
-![Title-Tab](https://imgur.com/xeqFHLd)
+![Title-Tab](https://imgur.com/xeqFHLd.png)
 
 ## Task lists
 

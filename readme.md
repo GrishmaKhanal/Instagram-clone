@@ -8,9 +8,7 @@
 
 ## General info
 
-This project is simple _Instagram login-page_ clone. [__Instagram__](https://instagram.com) is a famous social media application.
-It has a simple to understand login-page making it perfect for beginneers like me to be more familiar with HTML and CSS.
-The project was carried out to learn more about HTML and CSS, and their interaction.
+This project is simple Instagram login-page clone. [__Instagram__](https://instagram.com) is a famous social media application. It has a simple to understand login-page making it perfect for beginneers like me to be more familiar with HTML and CSS. The project was carried out to learn more about HTML and CSS, and their interaction.
 
 ## Setup
 
@@ -23,15 +21,16 @@ To clone this project locally:
 2. Open terminal/git-bash inside the folder and paste the given command
 
 ```
+
 git clone https://github.com/GrishmaKhanal/Instagram-clone
 
 ```
 
 ## Output
 
-The home-page of the home.html file should look like this:
+The home-page of the __Home.html__ file should look like this:
 
-![Home-Page](https://imgur.com/a/Rm1jq72)
+![Home-Page](https://imgur.com/kRxdWZM)
 
 The title tab, should look like this:
 
@@ -41,6 +40,6 @@ The title tab, should look like this:
 
 The things I wanted to finish for this project include:
 
--[x] Make a similar looking homepage.
--[x] Make links connect to correct places.
--[] Make Signup and Forgot password page.
+- [x] Make a similar looking homepage.
+- [x] Make links connect to correct places.
+- [ ] Make SignUp and Forgot password page.

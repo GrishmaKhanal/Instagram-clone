@@ -28,8 +28,6 @@ git clone https://github.com/GrishmaKhanal/Instagram-clone
 
 ## Output
 
-The output can be seen in this __[site](https://grishmakhanal.github.io/Instagram-clone/)__
-<hr>
 The home-page of the __Home.html__ file should look like this:
 
 ![Home-Page](https://imgur.com/kRxdWZM.png)
